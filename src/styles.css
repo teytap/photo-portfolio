@@ -22,6 +22,7 @@ h5 {
   max-width: 400px;
   border-radius: 4px;
   margin-bottom: 60px;
+  font-size: 18px;
 }
 p {
   font-size: 18px;
@@ -75,7 +76,7 @@ footer .footermark {
   padding: 15px 30px;
 }
 .gallery {
-  margin: 50px 100px;
+  margin: 50px 40px;
 }
 .gallery h1 {
   font-family: "Roboto", sans-serif;
@@ -95,4 +96,7 @@ footer .footermark {
   text-align: center;
   padding: 140px 0px;
   height: 800px;
+}
+.camera {
+  font-size: 32px;
 }
