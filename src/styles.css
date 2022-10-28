@@ -1,0 +1,82 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 72px;
+  line-height: 90px;
+  letter-spacing: 0.1em;
+  margin: 20px 0px;
+}
+h2 {
+  font-size: 24px;
+  line-height: 28px;
+}
+h4 {
+  color: #f65282;
+  line-height: 21px;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  margin: 40px 0px;
+}
+h5 {
+  background-color: #282323;
+  padding: 20px 20px;
+  max-width: 400px;
+  border-radius: 4px;
+  margin-bottom: 60px;
+}
+p {
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+body {
+  background: #1b1b1b;
+  color: white;
+}
+
+i {
+  color: white;
+  font-size: 18px;
+  margin: 10px;
+}
+i:hover {
+  transition: all 200ms ease-in-out;
+  color: wheat;
+}
+footer {
+  background: #282323;
+  text-align: center;
+  padding: 10px 60px;
+}
+footer .footerallrights {
+  margin-top: 10px;
+  font-size: 12px;
+}
+footer .footermark {
+  margin-top: 5px;
+  font-size: 20px;
+}
+.hero {
+  background-image: url("/src/images/bg.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-color: #212121;
+  height: 900px;
+  text-align: center;
+  padding: 160px 20px;
+}
+.btn-branding {
+  background: white;
+  border-radius: 40px;
+  color: black;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+.gallery {
+  margin: 50px 100px;
+}
+.about-me-description {
+  padding: 20px;
+}
