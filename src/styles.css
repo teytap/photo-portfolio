@@ -46,7 +46,7 @@ i:hover {
 footer {
   background: #282323;
   text-align: center;
-  padding: 10px 60px;
+  padding: 10px 70px;
 }
 footer .footerallrights {
   margin-top: 10px;
@@ -77,6 +77,22 @@ footer .footermark {
 .gallery {
   margin: 50px 100px;
 }
+.gallery h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 72px;
+  line-height: 90px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  margin: 110px 0px;
+}
 .about-me-description {
   padding: 20px;
+}
+.about-me-hero {
+  padding: 80px 50px 40px 0px;
+}
+.contact-box {
+  text-align: center;
+  padding: 140px 0px;
+  height: 800px;
 }
