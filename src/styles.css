@@ -92,7 +92,8 @@ footer .footermark {
 }
 
 .container7 > div {
-  margin: 20px;
+  margin: 20px 5px;
+  padding: 5px;
 }
 .container7 > div > img {
   width: 100%;
@@ -148,13 +149,15 @@ footer .footermark {
     margin: 120px 0px 10px 0px;
     font-size: 52px;
   }
-  .container7 {
-    justify-content: center;
-    padding: 20px;
-  }
 
   .footer {
     padding: 10px 0px;
     text-align: center;
+  }
+}
+@media (max-width: 1300px) {
+  .container7 {
+    padding: 30px;
+    justify-content: center;
   }
 }
